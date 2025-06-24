@@ -1,3 +1,6 @@
-![problem statement](/hire_ai/problem state.png)
+##Problem statement
+![problem statement](images/problem state.png)
+
 ![multi ai](/hire_ai/sol.png)
-![data analyst](/hire_ai/data analyst.png)
+##Data Analyst Agent Architecture
+![data analyst](images/data analyst.png)
