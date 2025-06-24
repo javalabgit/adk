@@ -49,7 +49,7 @@ Multi AI addresses these challenges by offering:
 
 ## 📁 Architecture Overview
 
-![Architecture Diagram](Images/agent-architecture.jpg)
+![Architecture Diagram](hire_ai/Images/agent-architecture.jpg)
 
 The system is powered by a modular agent framework. The **Custom Agent Creator Agent** dynamically builds and configures specialized agents on demand.
 
@@ -58,35 +58,35 @@ The system is powered by a modular agent framework. The **Custom Agent Creator A
 ## 🤖 AI Agents
 
 ### ✈️ Travel Planner Agent
-![Travel Agent](Images/travel-planner.jpg)
+![Travel Agent](hire-ai/Images/travel-planner.jpg)
 
 Plans personalized itineraries, books accommodations, and provides travel suggestions using real-time data.
 
 ---
 
 ### 📊 Data Analyst Agent
-![Data Analyst](Images/data-analyst.jpg)
+![Data Analyst](hire_ai/Images/data-analyst.jpg)
 
 Analyzes structured and unstructured datasets, generates reports, and supports decision-making through data insights.
 
 ---
 
 ### 🩺 Medical Agent
-![Medical Agent](Images/medical-agent.jpg)
+![Medical Agent](hire_ai/Images/medical-agent.jpg)
 
 Assists in preliminary diagnosis, health monitoring, and connects users to health resources based on symptoms and records.
 
 ---
 
 ### 🛠️ IT Service Agent
-![IT Service Agent](Images/it-service-agent.jpg)
+![IT Service Agent](hire_ai/Images/it-service-agent.jpg)
 
 Generates production-ready software components, APIs, and automation scripts based on user requirements. Supports rapid prototyping and deployment-ready solutions.
 
 ---
 
 ### 🧬 Custom Agent Creator Agent
-![Custom Agent Creator](Images/agent-architecture.jpg)
+![Custom Agent Creator](hire_ai/Images/agent-architecture.jpg)
 
 The core intelligence behind Multi AI — responsible for dynamically creating, deploying, and updating all other agents based on user input, needs, or domain requirements.
 
