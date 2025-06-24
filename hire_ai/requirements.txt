@@ -1,12 +1,9 @@
 # Core dependencies
+fast api
 matplotlib
 seaborn
 pandas
-numpy
-
 # Standard library modules (no need to include in requirements.txt)
 # os
 # webbrowser
-
-# Placeholder for google.adk - replace with actual source if known
-google-adk
+google adk
