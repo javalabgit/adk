@@ -1,2 +1,2 @@
 ##Travel PLanner Agent
-![Travel Planner agent](adkhire_ai/Images/travel planner.jpg)
+![Travel Planner agent](adk/hire_ai/Images/travel planner.jpg)
