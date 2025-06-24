@@ -1,1 +1,1 @@
-![Travel Planner agent](images/travel planner.jpg)
+![Travel Planner agent](Images/travel planner.jpg)
