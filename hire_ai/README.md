@@ -6,7 +6,7 @@ Multi AI is an advanced multi-agent system built on the **Google ADK (Agent Deve
 
 ## 📁 Architecture Overview
 
-![Architecture Diagram](Images/architecture.png)
+![Architecture Diagram](Images/Agent creator agent.png)
 
 The system is powered by a modular agent framework. The **Custom Agent Creator Agent** orchestrates the creation and configuration of the following specialized agents:
 
