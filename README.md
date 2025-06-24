@@ -162,8 +162,9 @@ The agent will begin working immediately and provide step-by-step responses.
 
 ###🖼️ Step 2: Run the Streamlit Frontend
 In a new terminal, run:
-
+```bash
 streamlit run streamlit_app.py
+```
 This opens your Streamlit app at http://localhost:8501.
 
 
