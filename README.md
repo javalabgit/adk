@@ -118,7 +118,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install the required Python packages:
 
-pip install fastapi matplotlib seaborn pandas google-adk
+###pip install fastapi matplotlib seaborn pandas google adk  
 ##📝 Standard libraries like os and webbrowser do not need to be installed separately.
 
 ##🚀 Step 2: Launch the ADK Web UI
