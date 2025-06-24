@@ -6,7 +6,7 @@ Multi AI is an advanced multi-agent system built on the **Google ADK (Agent Deve
 
 ## 📁 Architecture Overview
 
-![Architecture Diagram](Images/Agent creator agent.png)
+![Architecture Diagram](Images/Agent%20creator%20agent.png)
 
 The system is powered by a modular agent framework. The **Custom Agent Creator Agent** orchestrates the creation and configuration of the following specialized agents:
 
@@ -15,7 +15,7 @@ The system is powered by a modular agent framework. The **Custom Agent Creator A
 ## 🤖 Agents
 
 ### ✈️ Travel Planner Agent
-![Travel Agent](Images/travel_agent.png)
+![Travel Agent](Images/travel%20planner.png)
 
 Plans personalized itineraries, books accommodations, and provides travel suggestions using real-time data.
 
