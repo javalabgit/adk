@@ -1,5 +1,5 @@
 ##Problem statement
-![problem statement](images/travel planner.jpg)
+![problem statement](hire_ai/Images/travel planner.jpg)
 
 ![multi ai](/hire_ai/sol.png)
 ##Data Analyst Agent Architecture
