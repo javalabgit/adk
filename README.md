@@ -117,14 +117,16 @@ Create a virtual environment (recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install the required Python packages:
-
-###pip install fastapi matplotlib seaborn pandas google adk  
+```bash
+pip install fastapi matplotlib seaborn pandas google adk
+```
 ##📝 Standard libraries like os and webbrowser do not need to be installed separately.
 
 ##🚀 Step 2: Launch the ADK Web UI
 Run the following command from your terminal:
-
-##adk web
+```bash
+adk web
+```
 This will open the ADK Web UI in your browser automatically.
 If it doesn't, open your browser and go to:
 
