@@ -60,7 +60,7 @@ The system is powered by a modular agent framework. The **Custom Agent Creator A
 ## 🤖 AI Agents
 
 ### ✈️ Travel Planner Agent
-![Travel Agent](hire-ai/Images/travel-planner.jpg)
+![Travel Agent](hire_ai/Images/travel-planner.jpg)
 
 Plans personalized itineraries, books accommodations, and provides travel suggestions using real-time data.
 
