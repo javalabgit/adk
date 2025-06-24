@@ -1,2 +1,2 @@
-![travel Agent](hire_ai/1750699884158.jpg)
+![travel Agent](hire_ai/travel planner.png)
 The data analyst agent
